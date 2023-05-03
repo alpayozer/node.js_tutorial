@@ -1,0 +1,1 @@
+Patika eğitimleri içerisinde Node.Js ile Backend Patikası eğitimi kapsamında yapmış olduğum bölüm sonu ödevleri
